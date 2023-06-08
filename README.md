@@ -1,4 +1,4 @@
-# Mathematics of Machine Learining
+# Mathematics of Machine Learning
 [Mathematics of Machine Learning](https://sites.google.com/site/fagomezj/matem%C3%A1ticas-del-aprendizaje-de-m%C3%A1quinas-2023) is a graduate course taught at the National University of Colombia. This repository contains all the assignments left by [Franciso Gómez](https://sites.google.com/site/fagomezj/home?authuser=0), the course instructor. 
 The objective of this course was to give a first approach to the theoretical foundations of Deep Learning. Through this, we tackled recient issues regarding, not only the theoretical breakthroughs, 
 but the ethical implications of the use of data, and its applications on the latest problems of the industry.
