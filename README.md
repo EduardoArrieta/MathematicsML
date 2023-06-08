@@ -12,3 +12,9 @@ With the previous information, we implemented different models after adjusting t
 
 ## Face Recognition
 We studied PCA using scikit-learn. This algorithm of dimensionality reduction is the best way to represent face images. We searched for the eigenfaces that are most relevant in representing an image.
+
+## Learning from Data
+Solutions to specific exercises of Learning from Data, a book by Yaser Abu-Mostafa.
+
+## Theory
+Here you will find transcriptions of my class notes, implementation of examples, and certain insights/explanations I found uselfull for understanding thoroughly all the topics. This section is still under construction; hope I can finish it soon. 
